@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaveBoltman
-- 👀 I’m interested in relational databases, especially Microsoft SQL Server, PostreSQL
+- 👀 I’m interested in relational databases, especially Microsoft SQL Server & PostgreSQL. Also SQLite for local storage.
 - 🌱 I’m currently learning Python / Django
 
 <!--
